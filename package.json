@@ -1,0 +1,14 @@
+{
+  "name": "is_odd-chandu",
+  "version": "1.0.0",
+  "description": "CHecking odd numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "Chandu",
+  "license": "ISC"
+}
